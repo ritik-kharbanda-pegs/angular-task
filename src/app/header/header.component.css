@@ -1,0 +1,11 @@
+.search-btn {
+  left: -45px;
+}
+
+.form-control:focus {
+  box-shadow: none;
+}
+
+.form-control::-webkit-input-placeholder {
+  color: white;
+}
