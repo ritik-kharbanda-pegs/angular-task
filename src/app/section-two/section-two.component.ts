@@ -6,7 +6,9 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./section-two.component.css']
 })
 export class SectionTwoComponent implements OnInit {
-
+  
+  imagePath = "assets/images/1.png";
+  
   constructor() { }
 
   ngOnInit(): void {
